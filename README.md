@@ -1,6 +1,7 @@
 🌐 Live Demo
 
-🖥️ User Panel: doctor-appointment-eight-mocha.vercel.app
+🖥️ User Panel: https://doctor-appointment-eight-mocha.vercel.app/
+
 🛠️ Admin Panel: .....
 🔗 Backend API: .....
 
